@@ -6,3 +6,4 @@ more consistent out of box experience for new systems (including VMs)
 used for programming.
 # Curent Application List
 - Git
+- Windows Terminal
