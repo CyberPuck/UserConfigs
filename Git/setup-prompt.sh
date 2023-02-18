@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# Install Curl
+
+sudo apt-get --yes install curl 
+
 # Simple script for coping git-prompt to local folder.
 CONFIG_DIR="$HOME/.config/git"
 if [ ! -d  "$CONFIG_DIR" ]; then
